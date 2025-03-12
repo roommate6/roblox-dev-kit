@@ -3,15 +3,15 @@
 export type State = {
 	Name: string,
 	Duration: number,
-	Enter: (string) -> (boolean),
-	Started: () -> (),
-	Completed: () -> (string),
+	Enter: ((string) -> (boolean))?,
+	Started: (() -> ())?,
+	Completed: (() -> (string))?,
 }
 type StoredState = {
 	Duration: number,
-	Enter: (string) -> (boolean),
-	Started: () -> (),
-	Completed: () -> (),
+	Enter: ((string) -> (boolean))?,
+	Started: (() -> ())?,
+	Completed: (() -> (string))?,
 }
 
 local StateMachine = {}
