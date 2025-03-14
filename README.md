@@ -21,10 +21,10 @@ This project includes a modified version of the **RobloxStateMachine library** (
 Every code snippet you use or modify from this repo should be wrapped in **credit comments**.
 
 If you use any snippet from this repository in a Roblox game, please add the following credits in the game description:
+
 ```
 This game uses code snippets from: https://github.com/roommate6/roblox-dev-kit
-``` 
-You no longer need to include **credit comments** in the code snippets if you have already credited me in the game description.
+```
 
 ## Example Credit Comment Format
 
