@@ -2,7 +2,7 @@
 
 If you want to use any code from this repository, keep in mind that it is licensed under **Apache 2.0**.
 
-This project includes a modified version of the **RobloxStateMachine library** (created by **Prooheckcp**), which was originally licensed under the **MIT License**. The link to the GitHub repository of the RobloxStateMachine library can be found here: https://github.com/prooheckcp/RobloxStateMachine
+This project includes a modified version of the **RobloxStateMachine library** (created by **Prooheckcp**), which was originally licensed under the **MIT License**. The link to the GitHub repository of the RobloxStateMachine library can be found here: https://github.com/prooheckcp/RobloxStateMachine - **Also**, https://github.com/Errorbot1122 forked this library, and I am currently using the forked version because it addresses some important issues with the original version.
 
 ## What You Must Know About This License
 
